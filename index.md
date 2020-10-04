@@ -1,4 +1,12 @@
-[비전공자의 Swift 학습기](swift.md)
+## 안녕하세요 박세희 입니다
+
+> 비전공자이지만 Computer Science, Software Development를 공부하고 있습니다.  
+> [여기: parksehee.github.io](https://parksehee.github.io)에는 소위 `TIL`이라고 하는 학습일지를 기록합니다.  
+> (자연스럽게 `Markdown`도 익히고요. :wink:)
+
+## 학습일지
+
+[비전공자의 Swift 학습일지](swift.md)
 
 <!-- 
 
