@@ -4,9 +4,9 @@
 > [여기: parksehee.github.io](https://parksehee.github.io)에는 소위 `TIL`이라고 하는 학습일지를 기록합니다.  
 > (자연스럽게 `Markdown`도 익히고요. :wink:)
 
-## 학습일지
+## Swift 학습일지
 
-[비전공자의 Swift 학습일지](swift.md)
+- [부스트코스] iOS 프로그래밍을 위한 스위프트 기초 1단원 듣고 **Quiz 1** 풀었음 (2020-10-05)
 
 <!-- 
 
