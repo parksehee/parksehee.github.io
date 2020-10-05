@@ -6,7 +6,7 @@
 
 ## Swift 학습일지
 
-- [부스트코스] iOS 프로그래밍을 위한 스위프트 기초 [1단원](https://www.edwith.org/boostcamp_ios/joinLectures/40659) 듣고 **[Quiz 1](https://www.edwith.org/boostcamp_ios/joinLectures/39417)** 풀었음 (2020-10-05)
+- [부스트코스] iOS 프로그래밍을 위한 스위프트 기초 [1단원](https://www.edwith.org/boostcamp_ios/joinLectures/40659) 듣고 **[Quiz 1](https://www.edwith.org/boostcamp_ios/joinLectures/39417)** 풀었음 ([2020-10-05](20201005.md))
 
 <!-- 
 
